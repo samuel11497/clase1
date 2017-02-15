@@ -3,6 +3,6 @@
  using namespace std;
  
  int main(){
-	 cout <<"hola care bola" << endl;
-	 
+	 cout <<"hello moto" << endl;
+	 cout <<"estoy enamorado de 4 babys" << endl;
  }
